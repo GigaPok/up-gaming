@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/up-gaming/static/css/main.de7ecd17.css",
+    "main.js": "/up-gaming/static/js/main.741a2a4b.js",
+    "static/js/787.8accd33b.chunk.js": "/up-gaming/static/js/787.8accd33b.chunk.js",
+    "static/media/Roboto-Medium.ttf": "/up-gaming/static/media/Roboto-Medium.0fcd45fbfc419c42c8b9.ttf",
+    "static/media/Roboto-Thin.ttf": "/up-gaming/static/media/Roboto-Thin.2745c061dfc318ec57da.ttf",
+    "static/media/Roboto-Regular.ttf": "/up-gaming/static/media/Roboto-Regular.6bede58e856278b0f8f1.ttf",
+    "static/media/Roboto-Black.ttf": "/up-gaming/static/media/Roboto-Black.988a1a31c4f20d1a34a9.ttf",
+    "static/media/Roboto-Bold.ttf": "/up-gaming/static/media/Roboto-Bold.17451a4c1cd55e33ac57.ttf",
+    "static/media/Roboto-Light.ttf": "/up-gaming/static/media/Roboto-Light.ce61b8b68994802f2e55.ttf",
+    "static/media/flags.png": "/up-gaming/static/media/flags.48cd7e4b70f8ec2914ed.png",
+    "static/media/Roboto-Black.woff": "/up-gaming/static/media/Roboto-Black.9a94235561494618c0e9.woff",
+    "static/media/Roboto-Medium.woff": "/up-gaming/static/media/Roboto-Medium.ec86efbf7aa3d6fc8544.woff",
+    "static/media/Roboto-Bold.woff": "/up-gaming/static/media/Roboto-Bold.de0cae9549d2dcf68490.woff",
+    "static/media/Roboto-Regular.woff": "/up-gaming/static/media/Roboto-Regular.755dd4f3935688012767.woff",
+    "static/media/Roboto-Light.woff": "/up-gaming/static/media/Roboto-Light.de099c9f379b48014033.woff",
+    "static/media/Roboto-Thin.woff": "/up-gaming/static/media/Roboto-Thin.babde84663d36b24372f.woff",
+    "static/media/Roboto-Medium.woff2": "/up-gaming/static/media/Roboto-Medium.1d3bced88509b0838984.woff2",
+    "static/media/Roboto-Black.woff2": "/up-gaming/static/media/Roboto-Black.41ed1105a6ebb8ffe34e.woff2",
+    "static/media/Roboto-Bold.woff2": "/up-gaming/static/media/Roboto-Bold.92fbd4e93cf0a5dbebaa.woff2",
+    "static/media/Roboto-Regular.woff2": "/up-gaming/static/media/Roboto-Regular.64cfb66c866ea50cad47.woff2",
+    "static/media/Roboto-Light.woff2": "/up-gaming/static/media/Roboto-Light.c27d89ac77468ae18f28.woff2",
+    "static/media/Roboto-Thin.woff2": "/up-gaming/static/media/Roboto-Thin.dbd56bd3357dc3617fe5.woff2",
+    "static/media/Material.woff": "/up-gaming/static/media/Material.83bebaf37c09c7e1c3ee.woff",
+    "static/media/Material.woff2": "/up-gaming/static/media/Material.cff684e59ffb052d72cb.woff2",
+    "index.html": "/up-gaming/index.html",
+    "main.de7ecd17.css.map": "/up-gaming/static/css/main.de7ecd17.css.map",
+    "main.741a2a4b.js.map": "/up-gaming/static/js/main.741a2a4b.js.map",
+    "787.8accd33b.chunk.js.map": "/up-gaming/static/js/787.8accd33b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7ecd17.css",
+    "static/js/main.741a2a4b.js"
+  ]
+}
